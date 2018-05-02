@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoAppScreens</string>
+    <string name="welcome">Welcome to the Math/CS Department at WCU</string>
+    <string name="upcoming_events">UpComing Events</string>
+    <string name="go_to_beacons">Get Information From Nearby Beacons ➥</string>
+    <string name="empty"> </string>
+    <string name="class_schedule">Class Schedule</string>
+    <string name="announcements">Announcements</string>
+</resources>
